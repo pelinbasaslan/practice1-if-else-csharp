@@ -2,9 +2,6 @@
 [Dd]ebug/
 [Dd]ebugPublic/
 [Dd]ist/
-[Dd]ist/
-[Dd]ebug/
-[Dd]ebugPublic/
 
 # User-specific files
 .vscode/
@@ -37,43 +34,30 @@ x64_x86_arm/
 .idea/*
 
 # ASP.NET temporary files
+App_Data/
+
+# obj/ directory for build artifacts
+obj/
+
+# Bin directory for compiled output
+bin/
+
+# Temporary files for IDE
+*.suo
+*.user
+*.userosscache
+
 # ASP.NET files
 App_Data/
 
-# Windows Installer files
+# Windows Installer files (again for redundancy)
 *.cab
 *.msi
 *.msm
 *.msp
 
-# Windows Installer files (x64/x86)
-x64/
-x86/
-
-# Windows Installer files (ARM)
-arm/
-
-# Windows Installer files (x64/x86/ARM)
-x64_x86_arm/
-
-# JetBrains Rider files
+# Ignore Rider-specific files (IDE)
 .idea/
 
-# User-specific files for Rider
-.idea/*
-
-# Windows Installer files
-*.cab
-*.msi
-*.msm
-*.msp
-
-# User-specific files for Rider
-.idea/*
-
-# Windows Installer files
-*.cab
-*.msi
-*.msm
-*.msp
-
+# Ignore Visual Studio Code settings
+.vscode/
