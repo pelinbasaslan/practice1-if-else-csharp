@@ -1,0 +1,79 @@
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Dd]ist/
+[Dd]ist/
+[Dd]ebug/
+[Dd]ebugPublic/
+
+# User-specific files
+.vscode/
+.idea/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Windows Installer files (x64/x86)
+x64/
+x86/
+
+# Windows Installer files (ARM)
+arm/
+
+# Windows Installer files (x64/x86/ARM)
+x64_x86_arm/
+
+# JetBrains Rider files
+.idea/
+
+# User-specific files for Rider
+.idea/*
+
+# ASP.NET temporary files
+# ASP.NET files
+App_Data/
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Windows Installer files (x64/x86)
+x64/
+x86/
+
+# Windows Installer files (ARM)
+arm/
+
+# Windows Installer files (x64/x86/ARM)
+x64_x86_arm/
+
+# JetBrains Rider files
+.idea/
+
+# User-specific files for Rider
+.idea/*
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# User-specific files for Rider
+.idea/*
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
